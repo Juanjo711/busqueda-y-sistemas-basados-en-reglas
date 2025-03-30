@@ -25,8 +25,8 @@ Sigue estos pasos para configurar el entorno de desarrollo local:
 
 1.  **Clonar el Repositorio:**
     ```bash
-    git clone [https://www.atlassian.com/es/git/tutorials/setting-up-a-repository](https://www.atlassian.com/es/git/tutorials/setting-up-a-repository)
-    cd [Nombre de la carpeta del repositorio]
+    git clone https://github.com/Juanjo711/busqueda-y-sistemas-basados-en-reglas
+    cd busqueda-y-sistemas-basados-en-reglas
     ```
     
 ## Uso
